@@ -5,7 +5,7 @@ import { StyleSheet, Text, View, ImageBackground } from 'react-native';
 import DateTime from './components/DateTime';
 import WeatherScroll from './components/WeatherScroll';
 
-const API_KEY = '49cc8c821cd2aff9af04c9f98c36eb74';
+const API_KEY = 'API_KEY';
 
 const img = require('./assets/image.png')
 
